@@ -37,3 +37,8 @@ Implementation: PHP scripts retrieve relevant data from the database and format 
 ### Module 6: User Management<br>
 Admin privileges are necessary for managing user accounts. This module allows the admin to add, modify, or delete user accounts.
 Implementation: PHP scripts implement CRUD operations for user accounts. Access controls ensure that only the admin can access user management functionalities.
+
+
+## Team Members
+* Akshata Gunapache
+* A.Lakshanya
